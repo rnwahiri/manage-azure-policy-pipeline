@@ -7,9 +7,15 @@ This document defines all necessary prerequisites for the implementation of Azur
 ### **GitHub Repo Access**
 * **Start out by accessing the ASM manage-azure-policy-pipeline repo. This repo contains all of the files you will need to get started.** 
   * https://github.com/Azure/manage-azure-policy-pipeline  
+* **Navigate to Azure/manage-azure-policy-pipeline 
+* **Create a feature branch from the main branch 
+* **Initiate a pull request once pipeline code is functional. Approval gate disallows requester from soley approving their code. 
+  
 
 
 ### **Azure DevOps** 
+* **Start out by accessing the ASM manage-azure-policy-pipeline repo. This repo contains all of the files you will need to get started.** 
+  * https://github.com/Azure/manage-azure-policy-pipeline  
 * **Create Azure DevOps Organization** 
   * https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops  
 
